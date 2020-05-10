@@ -1,0 +1,46 @@
+{
+	"name": "lukin-vscode-theme",
+	"displayName": "Lukin Theme",
+	"description": "A minimal, ultra-dark and vibrant theme for VS Code.",
+	"version": "0.0.1",
+	"publisher": "lukinco",
+	"icon": "images/icon.png",
+	"author": "Lukin Co.",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#F5F5F5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lukinco/lukin-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/lukinco/lukin-vscode-theme"
+	},
+	"homepage": "https://github.com/lukinco/lukin-vscode-theme",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Vibrant",
+		"Dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lukin Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lukin-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "aee491c8-c21f-44f0-af2c-5669e9426874",
+		"publisherId": "eefb5f25-53f8-4ad8-8bae-6918b1a229ff",
+		"publisherDisplayName": "Lukin Co"
+	}
+}
