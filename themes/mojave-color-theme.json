@@ -128,7 +128,8 @@
         "variable.language.this"
       ],
       "settings": {
-        "foreground": "#40C4FF"
+        "foreground": "#40C4FF",
+        "fontStyle": "italic"
       }
     },
     {
@@ -204,7 +205,7 @@
         "variable.other.block"
       ],
       "settings": {
-        "foreground": "#47ddff"
+        "foreground": "#f8f8f0" //aqui 
       }
     },
     {
@@ -644,63 +645,7 @@
         "foreground": "#f8f8f0"
       }
     },
-    {
-			"scope": "keyword.operator.other.elixir",
-			"settings": {
-				"foreground": "#f36"
-			}
-    },
-		{
-			"scope": "variable.other.constant.elixir",
-			"settings": {
-				"foreground": "#49f571",
-			}
-		},
-		{
-			"scope": "constant.other.symbol.elixir",
-			"settings": {
-				"foreground": "#2eceff"
-			}
-    },
-		{
-			"scope": "parameter.variable.function.elixir",
-			"settings": {
-				"foreground": "#ffb452"
-			}
-		},
-    {
-      "name": "Elixir Functions",
-      "scope": "source.elixir entity.name.function",
-      "settings": {
-        "foreground": "#49f571"
-      }
-    },
-    {
-      "name": "Elixir",
-      "scope": [
-        "source.elixir variable.other.readwrite.module.elixir",
-        "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
-      ],
-      "settings": {
-        "foreground": "#2eceff"
-      }
-    },
-    {
-			"name": "Modules",
-			"scope": [
-				"variable.other.constant.elixir"
-			],
-			"settings": {
-				"foreground": "#f3ff52"
-			}
-		},
-    {
-      "name": "Elixir Binary Punctuations",
-      "scope": "source.elixir .punctuation.binary.elixir",
-      "settings": {
-        "foreground": "#2eceff"
-      }
-    },
+
   ],
   "colors": {
     "activityBar.background": "#2c2c2e",
@@ -734,9 +679,9 @@
     "editorOverviewRuler.warningForeground": "#FFAB40",
     "editorOverviewRuler.infoForeground": "#FFFF0000",
     "editorOverviewRuler.bracketMatchForeground": "#40C4FF00",
-    "editorGutter.addedBackground":"#004da6",
-    "editorGutter.modifiedBackground":"#039ef8",
-    "editorGutter.deletedBackground":"#FF5252",
+    "editorGutter.addedBackground": "#004da6",
+    "editorGutter.modifiedBackground": "#039ef8",
+    "editorGutter.deletedBackground": "#FF5252",
     "editor.lineHighlightBackground": "#ffffff10",
     "editor.lineHighlightBorder": "#ffffff05",
     "editor.selectionBackground": "#ffffff40",
@@ -807,26 +752,26 @@
     "titleBar.activeForeground": "#ffffff99",
     "titleBar.inactiveBackground": "#1E1E1E",
     "titleBar.inactiveForeground": "#ffffff99",
-		"progressBar.background": "#004da6",
+    "progressBar.background": "#004da6",
     "input.background": "#0A0A0A",
-		"input.foreground": "#f8f8f0",
+    "input.foreground": "#f8f8f0",
     "input.border": "#0375f8",
-		"input.placeholderForeground": "#ffffff66",
-		"inputOption.activeBorder": "#0375f8",
+    "input.placeholderForeground": "#ffffff66",
+    "inputOption.activeBorder": "#0375f8",
     "inputOption.activeBackground": "#00000000",
-		"inputValidation.infoBackground": "#0A0A0A",
-		"inputValidation.infoBorder": "#0375f8",
-		"inputValidation.warningBackground": "#0A0A0A",
-		"inputValidation.warningBorder": "#FFAB40",
-		"inputValidation.errorBackground": "#0A0A0A",
+    "inputValidation.infoBackground": "#0A0A0A",
+    "inputValidation.infoBorder": "#0375f8",
+    "inputValidation.warningBackground": "#0A0A0A",
+    "inputValidation.warningBorder": "#FFAB40",
+    "inputValidation.errorBackground": "#0A0A0A",
     "inputValidation.errorBorder": "#FF5252",
-		"pickerGroup.foreground": "#039ef8",
-		"pickerGroup.border": "#40c3ff00",
-		"extensionButton.prominentBackground": "#004da6",
-		"extensionButton.prominentHoverBackground": "#039ef8",
+    "pickerGroup.foreground": "#039ef8",
+    "pickerGroup.border": "#40c3ff00",
+    "extensionButton.prominentBackground": "#004da6",
+    "extensionButton.prominentHoverBackground": "#039ef8",
     "extensionButton.prominentForeground": "#0A0A0A",
     "editorLink.activeForeground": "#039ef8"
   },
-  "name": "Lukin Theme",
+  "name": "Mojave Theme",
   "type": "dark"
 }
