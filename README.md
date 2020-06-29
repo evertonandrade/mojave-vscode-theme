@@ -1,4 +1,5 @@
-# A simple color sheme for VS CODE
+# A simple color sheme for VS CODE 
+(based on Lukin Theme)
 
-## mojave-vscode-theme
-🎨 Mojave Theme for VS Code
+## 🎨 Mojave Theme for VS Code
+
