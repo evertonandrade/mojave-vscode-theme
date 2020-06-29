@@ -1,14 +1,12 @@
-# A simple color sheme for VS CODE 
-(based on Lukin Theme)
-
-## 🎨 Mojave Theme for VS Code
+<h1>A simple color sheme for VS CODE</h1> 
+<span>(based on Lukin Theme)</span>
 
 <p align="center">
   <img src="./images/icon.png" alt="Mojave Theme Logo" width="150">
 </p>
-<h1 align="center">
-  Mojave Theme for VS Code
-</h1>
+<h2 align="center">
+  🎨 Mojave Theme for VS Code
+</h2>
 <p align="center">
   A minimal, dark and vibrant theme for VS Code (based on Lukin theme).
 </p>
